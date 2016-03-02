@@ -1,1 +1,3 @@
-# the-most-dangerous-coding-app
+# The Most Dangerous Coding App
+
+Inspired by themostdangerouswritingapp.com
